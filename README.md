@@ -3,7 +3,7 @@ Lánczos Norbert – Karbantartó technikus | Aspiring Python Developer
 Rólam
 
 Szia! Lánczos Norbert vagyok Mezőcsátról.  
-Jelenleg karbantartó technikusként dolgozom egy informatikával foglalkozó cégnél, emellett villanyszerelői tanfolyamot végzek.  
+Jelenleg karbantartó technikusként dolgozom egy informatikával foglalkozó cégnél.  
 Hobbiszinten érdeklődöm a programozás iránt, és lépésről lépésre tanulom a Python nyelvet, a Git-et és a GitHub-ot.  
 Célom, hogy idővel saját projekteket készítsek, és bővítsem a tudásomat webfejlesztés, adatkezelés és automatizálás területén.
 
@@ -25,7 +25,7 @@ Kezdő szinten foglalkozom befektetésekkel és pénzügyi tervezéssel, hosszú
 About Me
 
 Hi! I'm Norbert Lanczos from Mezőcsát, Hungary.  
-I currently work as a maintenance technician at an IT company, while also completing an electrician training course.  
+I currently work as a maintenance technician at an IT company.  
 I am learning Python step-by-step along with Git and GitHub, aiming to create my own projects and expand my skills in web development, data management, and automation.
 
 In my free time, I enjoy gardening, bird breeding, and participating in racing pigeon competitions.  
